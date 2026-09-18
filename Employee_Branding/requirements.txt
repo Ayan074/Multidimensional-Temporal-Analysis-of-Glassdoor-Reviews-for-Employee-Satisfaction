@@ -1,0 +1,9 @@
+selenium
+undetected-chromedriver
+setuptools
+beautifulsoup4
+pandas
+openpyxl
+python-dotenv
+tqdm
+lxml
